@@ -1,0 +1,2 @@
+# dailylog
+Something every day
