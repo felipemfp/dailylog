@@ -9,4 +9,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 
 - [Day 23](log/2016-05-23.md) - Read: `career` / Did: `english class`
 - [Day 24](log/2016-05-24.md) - Read: `life` / Did: `mva class`
-
+- [Day 25](log/2016-05-25.md) - Read: `career` `open source` / Did: `english class` `meeting: research base`
