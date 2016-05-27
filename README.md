@@ -10,4 +10,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 23](log/2016-05-23.md) - Read: `career` / Did: `english class`
 - [Day 24](log/2016-05-24.md) - Read: `life` / Did: `mva class`
 - [Day 25](log/2016-05-25.md) - Read: `career` `open source` `react` / Did: `english class` `meeting: research base`
-- [Day 26](log/2016-05-26.md) - Read: `security` `asp.net core` / Did: `mva class`
+- [Day 26](log/2016-05-26.md) - Read: `security` `asp.net core` / Did: `mva class` `open source: How Fast I Read`
