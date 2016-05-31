@@ -14,3 +14,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 27](log/2016-05-27.md) - Read: `python` `react` `nosql` / Did: `open source: MySquad` `research: big data`
 - [Day 28](log/2016-05-28.md) - Read: `python` `nodejs` `atomic design` `css content` / Did: `mean stack bootcamp` `research: machine learning`
 - [Day 29](log/2016-05-29.md) - Read: `motivation` / Did: `research: redis and task queues` `tutorial: flask by example`
+- [Day 30](log/2016-05-30.md) - Read: `motivation` `css` `performance` / Did: `research: big data technologies` `open source: MySquad`
