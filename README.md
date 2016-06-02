@@ -16,3 +16,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 29](log/2016-05-29.md) - Read: `motivation` / Did: `research: redis and task queues` `tutorial: flask by example`
 - [Day 30](log/2016-05-30.md) - Read: `motivation` `css` `performance` / Did: `research: big data technologies` `open source: MySquad`
 - [Day 31](log/2016-05-31.md) - Read: `entity framework` / Did: `research: arduino and esp8266` `pizza ♥`
+
+### June
+
+- [Day 01](log/2016-06-01.md) - Did: `research: arduino and websocket` `open source: Flask-SocketIO-Sample`
