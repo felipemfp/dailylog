@@ -23,3 +23,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 02](log/2016-06-02.md) - Read: `motivation` `career`
 - [Day 03](log/2016-06-03.md) - Read: `motivation` `community` / Did: `start: React.js Fundamentals course` 
 - [Day 04](log/2016-06-04.md) - Read: `js` `c++` `passwordless` `work` `motivation` / Did: `research: servers for python` `open source: RGB-To-Hex`
+- [Day 05](log/2016-06-05.md) - Read: `js` `security` `motivation` / Did: `mva class` `open source: Cathy, RGB-To-Hex`
