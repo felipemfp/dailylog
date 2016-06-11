@@ -28,3 +28,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 07](log/2016-06-07.md) - Read: `backend` `folders languange` `flexbox` / Did: `open source: Catherine` `tutorial: flask by example`
 - [Day 08](log/2016-06-08.md) - Read: `work` `motivation` `entrepreneurship` / Did: `college`
 - [Day 09](log/2016-06-09.md) - Read: `js` `arduino` `frontend driven development`
+- Day 10 - Did: `college`
