@@ -29,3 +29,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 08](log/2016-06-08.md) - Read: `work` `motivation` `entrepreneurship` / Did: `college`
 - [Day 09](log/2016-06-09.md) - Read: `js` `arduino` `frontend driven development`
 - Day 10 - Did: `college`
+- [Day 11](log/2016-06-11.md) - Read: `brazilian tax system` `rest` `design patterns`
