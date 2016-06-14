@@ -31,3 +31,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 10 - Did: `college`
 - [Day 11](log/2016-06-11.md) - Read: `brazilian tax system` `rest` `design patterns`
 - Day 12 - Did: `Star Wars: Episode IV` `brazilian valentine's day`
+- [Day 13](log/2016-06-13.md) - Read: `ui/ux` `career` `motivation` / Did: `college` `english class`
