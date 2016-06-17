@@ -34,3 +34,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 13](log/2016-06-13.md) - Read: `ui/ux` `career` `motivation` / Did: `college` `english class`
 - [Day 14](log/2016-06-14.md) - Read: `angularjs` / Did: `college`
 - [Day 15](log/2016-06-15.md) - Read: `work` `database` / Did: `college` `english class`
+- [Day 16](log/2016-06-16.md) - Read: `motivation` `side projects` / Did: `open source: liturgia, linkbox`
