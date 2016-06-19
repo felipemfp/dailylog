@@ -36,3 +36,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 15](log/2016-06-15.md) - Read: `work` `database` / Did: `college` `english class`
 - [Day 16](log/2016-06-16.md) - Read: `motivation` `side projects` / Did: `open source: liturgia, linkbox`
 - [Day 17](log/2016-06-17.md) - Read: `js` `es6` / Did: `college` 
+- Day 18 - Did: `open source: cathy, linkbox`
