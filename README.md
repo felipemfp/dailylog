@@ -38,3 +38,6 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 17](log/2016-06-17.md) - Read: `js` `es6` / Did: `college` 
 - Day 18 - Did: `open source: cathy, linkbox`
 - [Day 19](log/2016-06-19.md) - Read: `css` `js` `es6` `motivation` / Did: `X-Men: Apocalypse` `tutorial: flask by example`
+- Day 20 - Did: `college`
+- Day 21 - Did: `college`
+- Day 22 - Did: `college`
