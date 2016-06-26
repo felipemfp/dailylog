@@ -42,3 +42,6 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 21 - Did: `college`
 - Day 22 - Did: `college`
 - [Day 23](log/2016-06-23.md) - Read: `motivation` `modbus with arduino`
+- [Day 24](log/2016-06-24.md) - Read: `motivation`
+- Day 25 - Did: `friend's weekend`
+- Day 26 - Did: `friend's weekend`
