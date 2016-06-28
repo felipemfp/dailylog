@@ -11,7 +11,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 24](log/2016-05-24.md) - Read: `life` / Did: `mva class` `college`
 - [Day 25](log/2016-05-25.md) - Read: `career` `open source` `react` / Did: `english class` `meeting: research base` `college`
 - [Day 26](log/2016-05-26.md) - Read: `security` `asp.net core` / Did: `mva class` `pet project: How Fast I Read` `college`
-- [Day 27](log/2016-05-27.md) - Read: `python` `react` `nosql` / Did: `open source: MySquad` `research: big data` `college`
+- [Day 27](log/2016-05-27.md) - Read: `python` `react` `nosql` / Did: `pet project: MySquad` `research: big data` `college`
 - [Day 28](log/2016-05-28.md) - Read: `python` `nodejs` `atomic design` `css content` / Did: `mean stack bootcamp` `research: machine learning`
 - [Day 29](log/2016-05-29.md) - Read: `motivation` / Did: `research: redis and task queues` `tutorial: flask by example`
 - [Day 30](log/2016-05-30.md) - Read: `motivation` `css` `performance` / Did: `research: big data technologies` `pet project: MySquad` `english class` `college`
@@ -36,7 +36,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 15](log/2016-06-15.md) - Read: `work` `database` / Did: `college` `english class`
 - [Day 16](log/2016-06-16.md) - Read: `motivation` `side projects` / Did: `pet project: liturgia, linkbox`
 - [Day 17](log/2016-06-17.md) - Read: `js` `es6` / Did: `college` 
-- Day 18 - Did: `open source: cathy, linkbox`
+- Day 18 - Did: `pet project: cathy, linkbox`
 - [Day 19](log/2016-06-19.md) - Read: `css` `js` `es6` `motivation` / Did: `X-Men: Apocalypse` `tutorial: flask by example`
 - Day 20 - Did: `college`
 - Day 21 - Did: `college`
