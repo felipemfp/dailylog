@@ -46,3 +46,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 25 - Did: `friend's weekend`
 - Day 26 - Did: `friend's weekend`
 - [Day 27](log/2016-06-27.md) - Read: `motivation` `life style` / Did: `college` `pet project: Cathy`
+- [Day 28](log/2016-06-28.md) - Read: `motivation`
