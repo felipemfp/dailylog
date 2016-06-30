@@ -36,7 +36,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 15](log/2016-06-15.md) - Read: `work` `database` / Did: `college` `english class`
 - [Day 16](log/2016-06-16.md) - Read: `motivation` `side projects` / Did: `pet project: liturgia, linkbox`
 - [Day 17](log/2016-06-17.md) - Read: `js` `es6` / Did: `college` 
-- Day 18 - Did: `pet project: cathy, linkbox`
+- Day 18 - Did: `pet project: Cathy, linkbox`
 - [Day 19](log/2016-06-19.md) - Read: `css` `js` `es6` `motivation` / Did: `X-Men: Apocalypse` `tutorial: flask by example`
 - Day 20 - Did: `college`
 - Day 21 - Did: `college`
@@ -47,3 +47,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 26 - Did: `friend's weekend`
 - [Day 27](log/2016-06-27.md) - Read: `motivation` `life style` / Did: `college` `pet project: Cathy`
 - [Day 28](log/2016-06-28.md) - Read: `motivation`
+- [Day 29](log/2016-06-29.md) - Read: `js` `es6` / Did: `college`
