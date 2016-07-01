@@ -42,9 +42,10 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 21 - Did: `college`
 - Day 22 - Did: `college`
 - [Day 23](log/2016-06-23.md) - Read: `motivation` `modbus with arduino`
-- [Day 24](log/2016-06-24.md) - Read: `motivation`
+- [Day 24](log/2016-06-24.md) - Read: `motivation` / Did: `Now You See Me 2`
 - Day 25 - Did: `friend's weekend`
 - Day 26 - Did: `friend's weekend`
 - [Day 27](log/2016-06-27.md) - Read: `motivation` `life style` / Did: `college` `pet project: Cathy`
 - [Day 28](log/2016-06-28.md) - Read: `motivation`
 - [Day 29](log/2016-06-29.md) - Read: `js` `es6` / Did: `college`
+- Day 30 - Did: `college` `Teenage Mutant Ninja Turtles: Out of the Shadows`
