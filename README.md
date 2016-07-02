@@ -49,3 +49,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 28](log/2016-06-28.md) - Read: `motivation`
 - [Day 29](log/2016-06-29.md) - Read: `js` `es6` / Did: `college`
 - Day 30 - Did: `college` `Teenage Mutant Ninja Turtles: Out of the Shadows`
+
+### July
+
+- Day 01 - Did: `college`
