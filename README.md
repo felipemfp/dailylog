@@ -53,3 +53,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 ### July
 
 - Day 01 - Did: `college`
+- [Day 02](log/2016-07-02.md) - Read: `gosu` / Did: `pet project: racing`
