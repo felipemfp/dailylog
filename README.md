@@ -54,3 +54,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 
 - Day 01 - Did: `college`
 - [Day 02](log/2016-07-02.md) - Read: `gosu` / Did: `pet project: racing`
+- [Day 03](log/2016-07-03.md) - Read: `programming` / Did: `react`
