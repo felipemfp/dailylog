@@ -58,3 +58,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 04](log/2016-07-04.md) - Read: `inspiration` / Did: `college` `pet project: racing`
 - [Day 05](log/2016-07-05.md) - Read: `python` / Did: `college` 
 - Day 06 - Did: `college` `open source: flask-restful`
+- [Day 07](log/2016-07-07.md) - Read: `programming` `webpack` / Did: `Finding Dory`
