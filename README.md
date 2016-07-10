@@ -60,3 +60,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 06 - Did: `college` `open source: flask-restful`
 - [Day 07](log/2016-07-07.md) - Read: `programming` `webpack` / Did: `Finding Dory`
 - Day 08 - Did: `college` `open source: flask-restful`
+- [Day 09](log/2016-07-09.md) - Read: `continuous integration` `motivation`
