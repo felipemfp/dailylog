@@ -62,3 +62,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 08 - Did: `college` `open source: flask-restful`
 - [Day 09](log/2016-07-09.md) - Read: `continuous integration` `motivation`
 - Day 10 - Did: `running`
+- [Day 11](log/2016-07-11.md) - Read: `js` `git hooks` `github pages` `life` / Did: `college`
