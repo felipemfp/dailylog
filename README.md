@@ -64,3 +64,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 10 - Did: `running`
 - [Day 11](log/2016-07-11.md) - Read: `js` `git hooks` `github pages` `life` / Did: `college`
 - Day 12 - Did: `college`
+- Day 13 - Did: `college`
