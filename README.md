@@ -66,4 +66,5 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 12 - Did: `college`
 - Day 13 - Did: `college`
 - Day 14 - Did: `college` `open source: doe um livro`
-- [Day 15](log/2016-07-15.md) - Read: `js` `motivation` `life` / Did: `X-Men: Apocalypse`
+- [Day 15](log/2016-07-15.md) - Read: `js` `motivation` `life` / Did: `college`
+- Day 16 -Did: `X-Men: Apocalypse`
