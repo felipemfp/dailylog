@@ -69,3 +69,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 15](log/2016-07-15.md) - Read: `js` `motivation` `life` / Did: `college`
 - Day 16 - Did: `X-Men: Apocalypse`
 - [Day 17](log/2016-07-17.md) - Read: `arduino` / Did: `pet project: cathy`
+- Day 18 - Did: `college`
