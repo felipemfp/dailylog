@@ -70,3 +70,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 16 - Did: `X-Men: Apocalypse`
 - [Day 17](log/2016-07-17.md) - Read: `arduino` / Did: `pet project: cathy`
 - Day 18 - Did: `college`
+- [Day 19](log/2016-07-19.nd) - Read: `js` `es6` `nanotecnology` / Did: `college`
