@@ -73,3 +73,6 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 19](log/2016-07-19.md) - Read: `js` `es6` `nanotecnology` / Did: `college` `futsal`
 - [Day 20](log/2016-07-20.md) - Read: `js` `typescript`
 - Day 21 - Did: `futsal`
+- [Day 22](log/2016-07-22.md) - Read: `js` `jQuery` `react` `passwordless` `hobbies`
+- Day 23 - Did: `resting`
+- Day 24 - Did: `resting`
