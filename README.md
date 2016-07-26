@@ -19,11 +19,11 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 
 ### June
 
-- [Day 01](log/2016-06-01.md) - Did: `research: arduino and websocket` `open source: Flask-SocketIO-Sample` `english class` `college`
+- [Day 01](log/2016-06-01.md) - Did: `research: arduino and websocket` `open source: felipemfp/flask-socketio-sample` `english class` `college`
 - [Day 02](log/2016-06-02.md) - Read: `motivation` `career` / Did: `college`
 - [Day 03](log/2016-06-03.md) - Read: `motivation` `community` / Did: `start: React.js Fundamentals course` 
-- [Day 04](log/2016-06-04.md) - Read: `js` `c++` `passwordless` `work` `motivation` / Did: `research: servers for python` `open source: RGB-To-Hex`
-- [Day 05](log/2016-06-05.md) - Read: `js` `security` `motivation` / Did: `mva class` `open source: RGB-To-Hex` `pet project: Cathy`
+- [Day 04](log/2016-06-04.md) - Read: `js` `c++` `passwordless` `work` `motivation` / Did: `research: servers for python` `open source: cristian-henrique/RGB-To-Hex`
+- [Day 05](log/2016-06-05.md) - Read: `js` `security` `motivation` / Did: `mva class` `open source: cristian-henrique/RGB-To-Hex` `pet project: Cathy`
 - [Day 06](log/2016-06-06.md) - Read: `js` `es6` `startup` / Did: `english class` `college`
 - [Day 07](log/2016-06-07.md) - Read: `backend` `folders languange` `flexbox` / Did: `pet project: Catherine` `tutorial: flask by example`
 - [Day 08](log/2016-06-08.md) - Read: `work` `motivation` `entrepreneurship` / Did: `college`
@@ -57,15 +57,15 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 03](log/2016-07-03.md) - Read: `programming` / Did: `react`
 - [Day 04](log/2016-07-04.md) - Read: `inspiration` / Did: `college` `pet project: racing`
 - [Day 05](log/2016-07-05.md) - Read: `python` / Did: `college` 
-- Day 06 - Did: `college` `open source: flask-restful`
+- Day 06 - Did: `college` `open source: flask-restful/flask-restful`
 - [Day 07](log/2016-07-07.md) - Read: `programming` `webpack` / Did: `Finding Dory`
-- Day 08 - Did: `college` `open source: flask-restful`
+- Day 08 - Did: `college` `open source: flask-restful/flask-restful`
 - [Day 09](log/2016-07-09.md) - Read: `continuous integration` `motivation`
 - Day 10 - Did: `running`
 - [Day 11](log/2016-07-11.md) - Read: `js` `git hooks` `github pages` `life` / Did: `college`
 - Day 12 - Did: `college`
 - Day 13 - Did: `college`
-- Day 14 - Did: `college` `open source: doe um livro`
+- Day 14 - Did: `college` `open source: frontendbr/doe-um-livro`
 - [Day 15](log/2016-07-15.md) - Read: `js` `motivation` `life` / Did: `college`
 - Day 16 - Did: `X-Men: Apocalypse`
 - [Day 17](log/2016-07-17.md) - Read: `arduino` / Did: `pet project: cathy`
