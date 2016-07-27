@@ -77,3 +77,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 23 - Did: `resting`
 - Day 24 - Did: `resting`
 - [Day 25](log/2016-07-25.md) - Read: `csharp` `dotnet` `testing` / Did: `open source: quozd/awesome-dotnet, IFRN/gosu-exemplos` `college`
+- Day 26 - Did: `open source: IFRN/gosu-exemplos` `college`
