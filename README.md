@@ -79,3 +79,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 25](log/2016-07-25.md) - Read: `csharp` `dotnet` `testing` / Did: `open source: quozd/awesome-dotnet, IFRN/gosu-exemplos` `college`
 - Day 26 - Did: `open source: IFRN/gosu-exemplos` `college` `futsal`
 - Day 27 - Did: `open source: felipemfp/obi`
+- Day 28 - Did: `futsal`
