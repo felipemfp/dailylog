@@ -80,3 +80,6 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 26 - Did: `open source: IFRN/gosu-exemplos` `college` `futsal`
 - Day 27 - Did: `open source: felipemfp/obi`
 - Day 28 - Did: `futsal`
+- [Day 29](log/2016-07-29.md) - Read: `programming` `object-oriented` `work` / Did: `futsal` `open source: felipemfp/obi`
+- Day 30 - Did: `Agent Carter` `open source: felipemfp/obi`
+- Day 31 - Did: `Strange Things` `open source: felipemfp/obi`
