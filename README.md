@@ -82,4 +82,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 28 - Did: `futsal`
 - [Day 29](log/2016-07-29.md) - Read: `programming` `object-oriented` `work` / Did: `futsal` `open source: felipemfp/obi`
 - Day 30 - Did: `Agent Carter` `open source: felipemfp/obi`
-- Day 31 - Did: `Strange Things` `open source: felipemfp/obi`
+- Day 31 - Did: `Stranger Things` `open source: felipemfp/obi`
