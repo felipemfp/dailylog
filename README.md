@@ -81,5 +81,10 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 27 - Did: `open source: felipemfp/obi`
 - Day 28 - Did: `futsal`
 - [Day 29](log/2016-07-29.md) - Read: `programming` `object-oriented` `work` / Did: `futsal` `open source: felipemfp/obi`
-- Day 30 - Did: `Agent Carter` `open source: felipemfp/obi`
-- Day 31 - Did: `Stranger Things` `open source: felipemfp/obi`
+- Day 30 - Did: `Agent Carter: season 2` `open source: felipemfp/obi`
+- Day 31 - Did: `Stranger Things: season 1` `open source: felipemfp/obi`
+
+### August
+
+- Day 01 - Did: `Friends: season 7` `open source: felipemfp/obi`
+- Day 02 - Did: `Friends: season 8`
