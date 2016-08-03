@@ -29,7 +29,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 08](log/2016-06-08.md) - Read: `work` `motivation` `entrepreneurship` / Did: `college`
 - [Day 09](log/2016-06-09.md) - Read: `js` `arduino` `frontend driven development`
 - Day 10 - Did: `college`
-- [Day 11](log/2016-06-11.md) - Read: `brazilian tax system` `rest` `design patterns`
+- [Day 11](log/2016-06-11.md) - Read: `brazilian tax system` `rest` `design patterns` / Did: `Friends: season 1`
 - Day 12 - Did: `Star Wars: Episode IV` `brazilian valentine's day`
 - [Day 13](log/2016-06-13.md) - Read: `ui/ux` `career` `motivation` / Did: `college` `english class`
 - [Day 14](log/2016-06-14.md) - Read: `angularjs` / Did: `college`
@@ -46,15 +46,15 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 25 - Did: `friend's weekend`
 - Day 26 - Did: `friend's weekend`
 - [Day 27](log/2016-06-27.md) - Read: `motivation` `life style` / Did: `college` `pet project: Cathy`
-- [Day 28](log/2016-06-28.md) - Read: `motivation`
+- [Day 28](log/2016-06-28.md) - Read: `motivation` / Did: `Friends: season 2`
 - [Day 29](log/2016-06-29.md) - Read: `js` `es6` / Did: `college`
 - Day 30 - Did: `college` `Teenage Mutant Ninja Turtles: Out of the Shadows`
 
 ### July
 
-- Day 01 - Did: `college`
+- Day 01 - Did: `college` `Better Call Saul: season 2`
 - [Day 02](log/2016-07-02.md) - Read: `gosu` / Did: `pet project: racing`
-- [Day 03](log/2016-07-03.md) - Read: `programming` / Did: `react`
+- [Day 03](log/2016-07-03.md) - Read: `programming` / Did: `react` `Friends: season 3`
 - [Day 04](log/2016-07-04.md) - Read: `inspiration` / Did: `college` `pet project: racing`
 - [Day 05](log/2016-07-05.md) - Read: `python` / Did: `college` 
 - Day 06 - Did: `college` `open source: flask-restful/flask-restful`
@@ -68,18 +68,18 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 14 - Did: `college` `open source: frontendbr/doe-um-livro`
 - [Day 15](log/2016-07-15.md) - Read: `js` `motivation` `life` / Did: `college`
 - Day 16 - Did: `X-Men: Apocalypse`
-- [Day 17](log/2016-07-17.md) - Read: `arduino` / Did: `pet project: cathy`
+- [Day 17](log/2016-07-17.md) - Read: `arduino` / Did: `pet project: cathy` `Friends: season 4`
 - Day 18 - Did: `college`
 - [Day 19](log/2016-07-19.md) - Read: `js` `es6` `nanotecnology` / Did: `college` `futsal`
 - [Day 20](log/2016-07-20.md) - Read: `js` `typescript`
 - Day 21 - Did: `futsal`
-- [Day 22](log/2016-07-22.md) - Read: `js` `jQuery` `react` `passwordless` `hobbies`
+- [Day 22](log/2016-07-22.md) - Read: `js` `jQuery` `react` `passwordless` `hobbies` / Did: `Friends: season 5`
 - Day 23 - Did: `resting`
 - Day 24 - Did: `resting`
 - [Day 25](log/2016-07-25.md) - Read: `csharp` `dotnet` `testing` / Did: `open source: quozd/awesome-dotnet, IFRN/gosu-exemplos` `college`
 - Day 26 - Did: `open source: IFRN/gosu-exemplos` `college` `futsal`
 - Day 27 - Did: `open source: felipemfp/obi`
-- Day 28 - Did: `futsal`
+- Day 28 - Did: `Friends: season 6` `futsal`
 - [Day 29](log/2016-07-29.md) - Read: `programming` `object-oriented` `work` / Did: `futsal` `open source: felipemfp/obi`
 - Day 30 - Did: `Agent Carter: season 2` `open source: felipemfp/obi`
 - Day 31 - Did: `Stranger Things: season 1` `open source: felipemfp/obi`
