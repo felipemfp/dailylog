@@ -54,7 +54,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 
 - Day 01 - Did: `college` `Better Call Saul: season 2`
 - [Day 02](log/2016-07-02.md) - Read: `gosu` / Did: `pet project: racing`
-- [Day 03](log/2016-07-03.md) - Read: `programming` / Did: `react` `Friends: season 3`
+- [Day 03](log/2016-07-03.md) - Read: `programming` / Did: `react` `Friends: season 3` `podcast: foocast #7`
 - [Day 04](log/2016-07-04.md) - Read: `inspiration` / Did: `college` `pet project: racing`
 - [Day 05](log/2016-07-05.md) - Read: `python` / Did: `college` 
 - Day 06 - Did: `college` `open source: flask-restful/flask-restful`
@@ -76,7 +76,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 22](log/2016-07-22.md) - Read: `js` `jQuery` `react` `passwordless` `hobbies` / Did: `Friends: season 5`
 - Day 23 - Did: `resting`
 - Day 24 - Did: `resting`
-- [Day 25](log/2016-07-25.md) - Read: `csharp` `dotnet` `testing` / Did: `open source: quozd/awesome-dotnet, IFRN/gosu-exemplos` `college`
+- [Day 25](log/2016-07-25.md) - Read: `csharp` `dotnet` `testing` / Did: `open source: quozd/awesome-dotnet, IFRN/gosu-exemplos` `college` `podcast: Hipsters #01`
 - Day 26 - Did: `open source: IFRN/gosu-exemplos` `college` `futsal`
 - Day 27 - Did: `open source: felipemfp/obi`
 - Day 28 - Did: `Friends: season 6` `futsal`
