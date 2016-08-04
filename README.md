@@ -73,7 +73,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 19](log/2016-07-19.md) - Read: `js` `es6` `nanotecnology` / Did: `college` `futsal`
 - [Day 20](log/2016-07-20.md) - Read: `js` `typescript`
 - Day 21 - Did: `futsal`
-- [Day 22](log/2016-07-22.md) - Read: `js` `jQuery` `react` `passwordless` `hobbies` / Did: `Friends: season 5`
+- [Day 22](log/2016-07-22.md) - Read: `js` `jQuery` `react` `passwordless` `hobbies` / Did: `Friends: season 5`  `tutorial: flask by example`
 - Day 23 - Did: `resting`
 - Day 24 - Did: `resting`
 - [Day 25](log/2016-07-25.md) - Read: `csharp` `dotnet` `testing` / Did: `open source: quozd/awesome-dotnet, IFRN/gosu-exemplos` `college` `podcast: Hipsters #01`
@@ -88,3 +88,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 
 - Day 01 - Did: `Friends: season 7` `open source: felipemfp/obi`
 - Day 02 - Did: `Friends: season 8`
+- [Day 03](log/2016-08-03.md) - Did: `podcast: Hipsters #02`  `tutorial: flask by example`
