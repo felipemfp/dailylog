@@ -89,3 +89,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 01 - Did: `Friends: season 7` `open source: felipemfp/obi`
 - Day 02 - Did: `Friends: season 8`
 - [Day 03](log/2016-08-03.md) - Did: `podcast: Hipsters #02`  `tutorial: flask by example`
+- [Day 04](log/2016-08-04.md) - Read: `motivation` `work` / Did: `futsal`
