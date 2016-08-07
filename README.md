@@ -91,3 +91,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 03](log/2016-08-03.md) - Did: `podcast: Hipsters #02`  `tutorial: flask by example`
 - [Day 04](log/2016-08-04.md) - Read: `motivation` `work` / Did: `futsal`
 - Day 05 - Did: `college` `pet project: cathy`
+- Day 06 - Did: `open source: camilatigre/listamaravilhosaopensource`
