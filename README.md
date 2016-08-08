@@ -92,3 +92,5 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 04](log/2016-08-04.md) - Read: `motivation` `work` / Did: `futsal`
 - Day 05 - Did: `college` `pet project: cathy`
 - Day 06 - Did: `open source: camilatigre/listamaravilhosaopensource`
+- Day 07 - Did: `Friends: season 9` `pet project: racing`
+- Day 08 - Did: `college` `pet project: racing`
