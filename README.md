@@ -95,3 +95,6 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 07 - Did: `Friends: season 9` `pet project: racing`
 - Day 08 - Did: `college` `pet project: racing`
 - Day 09 - Did: `pet project: racing` `Intercampi Games: futsal`
+- Day 10 - Did: `Intercampi Games: futsal`
+- Day 11 - Did: `Intercampi Games: futsal`
+- Day 12 - Did: `Intercampi Games: futsal`
