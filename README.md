@@ -99,3 +99,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 11 - Did: `Intercampi Games: futsal`
 - Day 12 - Did: `Intercampi Games: futsal`
 - Day 13 - Did: `Evangelizar É Preciso: Natal`
+- Day 14 - Did: `spanish class`
