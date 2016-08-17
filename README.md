@@ -100,3 +100,5 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 12 - Did: `Intercampi Games: futsal`
 - Day 13 - Did: `Evangelizar É Preciso: Natal`
 - Day 14 - Did: `spanish class`
+- Day 15 - Did: `english class` `pet project: racing`
+- Day 16 - Did: `Friends: season 10` `pet project: racing`
