@@ -103,3 +103,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 15 - Did: `english class` `pet project: racing`
 - Day 16 - Did: `Friends: season 10` `pet project: racing`
 - Day 17 - Did: `english class` `pet project: racing`
+- [Day 18](log/2016-08-18.md) - Read: `open source` `documentation` `api` / Did: `college`  `pet project: racing`
