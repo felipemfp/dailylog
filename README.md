@@ -107,3 +107,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 19](log/2016-08-19.md) - Read: `atom packages` / Did: `Suicide Squad`
 - Day 20 - Did: `Campus Party Recife`
 - Day 21 - Did: `Campus Party Recife` `The Purge: Election Year`
+- Day 22 - Did: `college` `english class`
