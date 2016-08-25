@@ -109,3 +109,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 21 - Did: `Campus Party Recife` `The Purge: Election Year`
 - Day 22 - Did: `college` `english class`
 - Day 23 - Did: `spanish class` `London Has Fallen` `White House Down`
+- Day 24 - Did: `spanish class` `Call of Duty: Black Ops` `Down to Earth` `The Bourne Identity`
