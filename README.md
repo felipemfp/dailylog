@@ -37,7 +37,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 16](log/2016-06-16.md) - Read: `motivation` `side projects` / Did: `pet project: liturgia, linkbox`
 - [Day 17](log/2016-06-17.md) - Read: `js` `es6` / Did: `college` 
 - Day 18 - Did: `pet project: cathy, linkbox`
-- [Day 19](log/2016-06-19.md) - Read: `css` `js` `es6` `motivation` / Did: `X-Men: Apocalypse` `tutorial: flask by example`
+- [Day 19](log/2016-06-19.md) - Read: `css` `js` `es6` `motivation` / Did: `X-Men: Apocalypse (again)` `tutorial: flask by example`
 - Day 20 - Did: `college`
 - Day 21 - Did: `college`
 - Day 22 - Did: `college`
@@ -108,7 +108,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 20 - Did: `Campus Party Recife`
 - Day 21 - Did: `Campus Party Recife` `The Purge: Election Year`
 - Day 22 - Did: `college` `english class`
-- Day 23 - Did: `spanish class` `London Has Fallen` `White House Down`
+- Day 23 - Did: `spanish class` `London Has Fallen` `White House Down (again)`
 - Day 24 - Did: `spanish class` `Call of Duty: Black Ops` `Down to Earth` `The Bourne Identity`
 - Day 25 - Did: `The Bourne Supremacy`
 - Day 26 - Did: `The Bourne Ultimatum` `How I Met Your Mother: season 1 (again)` `open source: PosteroOrg/mural`
