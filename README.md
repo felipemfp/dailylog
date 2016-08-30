@@ -114,3 +114,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 26 - Did: `The Bourne Ultimatum` `How I Met Your Mother: season 1 (again)` `open source: PosteroOrg/mural`
 - [Day 27](log/2016-08-27.md) - Read: `terms of service` `privacy` / Did: `The Host` `pet project: racing`
 - [Day 28](log/2016-08-28.md) - Read: `electron` `webpack` `coding` `hosting` / Did: `Khumba` `react class`
+- [Day 29](log/2016-08-29.md) - Read: `motivation` `work` `remote` / Did: `Jack Ryan: Shadow Recruit` `react class`
