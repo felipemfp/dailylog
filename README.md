@@ -115,3 +115,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 27](log/2016-08-27.md) - Read: `terms of service` `privacy` / Did: `The Host` `pet project: racing`
 - [Day 28](log/2016-08-28.md) - Read: `electron` `webpack` `coding` `hosting` / Did: `Khumba` `react class`
 - [Day 29](log/2016-08-29.md) - Read: `motivation` `work` `remote` / Did: `Jack Ryan: Shadow Recruit` `react class`
+- [Day 30](log/2016-08-30.md) - Read: `test driven development` `graphql` `react` / Did: `Silver Linings Playbook` `react class` `spanish class` `podcast: Hipsters #06`
