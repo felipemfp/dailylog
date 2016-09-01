@@ -116,3 +116,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 28](log/2016-08-28.md) - Read: `electron` `webpack` `coding` `hosting` / Did: `Khumba` `react class`
 - [Day 29](log/2016-08-29.md) - Read: `motivation` `work` `remote` / Did: `Jack Ryan: Shadow Recruit` `react class`
 - [Day 30](log/2016-08-30.md) - Read: `test driven development` `graphql` `react` / Did: `Silver Linings Playbook` `react class` `spanish class` `podcast: Hipsters #06`
+- [Day 31](log/2016-08-31.md) - Read: `react` `es6` `js injection` / Did: `A Long Way Down` `The Fox and the Hound` `english class` `react class`
