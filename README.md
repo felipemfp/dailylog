@@ -122,3 +122,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 ### September
 
 - [Day 01](log/2016-09-01.md) - Read: `python` `django rest framework` / Did: `Semadec: react + redux`
+- [Day 02](log/2016-09-02.md) - Did: `Semadec: react + redux` `react class`
