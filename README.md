@@ -124,3 +124,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 01](log/2016-09-01.md) - Read: `python` `django rest framework` / Did: `Semadec: react + redux`
 - [Day 02](log/2016-09-02.md) - Did: `Semadec: react + redux` `react class`
 - [Day 03](log/2016-09-03.md) - Read: `js` `js debugging` `self improvement` `mooc`  / Did: `react class` `open source: Projeto-SIAC/suap-wrapper`
+- [Day 04](log/2016-09-04.md) - Read: `js` `refactoring` `web components` `esp8266` `community` / Did: `open source: PosteroOrg/mural`
