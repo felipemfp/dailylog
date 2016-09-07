@@ -126,3 +126,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 03](log/2016-09-03.md) - Read: `js` `js debugging` `self improvement` `mooc`  / Did: `react class` `open source: Projeto-SIAC/suap-wrapper`
 - [Day 04](log/2016-09-04.md) - Read: `js` `refactoring` `web components` `esp8266` `community` / Did: `open source: PosteroOrg/mural`
 - Day 05 - Did: `pet project: Catherine`
+- Day 06 - Did: `open source: ericdouglas/traduz-ai`
