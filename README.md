@@ -127,3 +127,6 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 04](log/2016-09-04.md) - Read: `js` `refactoring` `web components` `esp8266` `community` / Did: `open source: PosteroOrg/mural`
 - Day 05 - Did: `pet project: Catherine`
 - Day 06 - Did: `open source: ericdouglas/traduz-ai`
+- [Day 07](log/2016-09-07.md) - Read: `vuejs` / Did: `programming training`
+- Day 08 - Did: `programming training`
+- Day 09 - Did: `programming training`
