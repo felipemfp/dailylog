@@ -131,3 +131,5 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 08 - Did: `programming training` `How I Met Your Mother: season 3 (again)`
 - Day 09 - Did: `programming training`
 - Day 10 - Did: `International Collegiate Programming Contest`
+- Day 11 - Did:  `resting`
+- Day 12 - Did: `college` `english class`
