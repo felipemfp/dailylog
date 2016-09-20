@@ -137,6 +137,6 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 14 - Did: `college`
 - [Day 15](log/2016-09-15.md) - Did: `Hipsters #05`
 - Day 16 - Did: `college` `code practise`
-- Day 17 - Did: `busy`
+- Day 17 - Did: `The Secret Life of Pets`
 - Day 18 - Did: `resting`
 - Day 19 - Did: `college`
