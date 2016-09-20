@@ -133,3 +133,10 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 10 - Did: `International Collegiate Programming Contest`
 - Day 11 - Did:  `resting`
 - Day 12 - Did: `college` `english class`
+- Day 13 - Did: `college`
+- Day 14 - Did: `college`
+- [Day 15](log/2016-09-15.md) - Did: `Hipsters #05`
+- Day 16 - Did: `college` `code practise`
+- Day 17 - Did: `busy`
+- Day 18 - Did: `resting`
+- Day 19 - Did: `college`
