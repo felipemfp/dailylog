@@ -140,3 +140,5 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 17 - Did: `The Secret Life of Pets`
 - Day 18 - Did: `resting`
 - Day 19 - Did: `college`
+- Day 20 - Did: `college` `futsal`
+- Day 21 - Did: `college`
