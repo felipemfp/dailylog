@@ -136,9 +136,12 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 13 - Did: `college`
 - Day 14 - Did: `college`
 - [Day 15](log/2016-09-15.md) - Did: `Hipsters #05`
-- Day 16 - Did: `college` `code practise`
+- Day 16 - Did: `college` `pet project: code-practice`
 - Day 17 - Did: `The Secret Life of Pets`
 - Day 18 - Did: `resting`
 - Day 19 - Did: `college`
 - Day 20 - Did: `college` `futsal`
 - Day 21 - Did: `college`
+- Day 22 - Did: `pet project: code-practice`
+- Day 23 - Did: `college` `MADA`
+- [Day 24](log/2016-09-24.md) - Read: `free code camp survey` / Did: `class reunion` `MADA`
