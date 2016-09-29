@@ -145,3 +145,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 22 - Did: `pet project: code-practice`
 - Day 23 - Did: `college` `MADA`
 - [Day 24](log/2016-09-24.md) - Read: `free code camp survey` / Did: `class reunion` `MADA`
+- Day 25 - Did: `resting`
+- Day 26 - Did: `college`
+- Day 27 - Did: `college`
+- Day 28 - Did: `college` `english class` `How I Met Your Mother: season 4 (again)`
