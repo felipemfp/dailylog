@@ -149,3 +149,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 26 - Did: `college` `english class`
 - Day 27 - Did: `college`
 - Day 28 - Did: `college` `english class` `How I Met Your Mother: season 4 (again)`
+- [Day 29](log/2016-09-29.md) - Read:  `work` `life` `web development`
