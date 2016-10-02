@@ -113,17 +113,17 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 25 - Did: `The Bourne Supremacy`
 - Day 26 - Did: `The Bourne Ultimatum` `How I Met Your Mother: season 1 (again)` `open source: PosteroOrg/mural`
 - [Day 27](log/2016-08-27.md) - Read: `terms of service` `privacy` / Did: `The Host` `pet project: racing`
-- [Day 28](log/2016-08-28.md) - Read: `electron` `webpack` `coding` `hosting` / Did: `Khumba` `react class`
-- [Day 29](log/2016-08-29.md) - Read: `motivation` `work` `remote` / Did: `Jack Ryan: Shadow Recruit` `react class`
-- [Day 30](log/2016-08-30.md) - Read: `test driven development` `graphql` `react` / Did: `Silver Linings Playbook` `react class` `spanish class` `podcast: Hipsters #06`
-- [Day 31](log/2016-08-31.md) - Read: `react` `es6` `js injection` / Did: `A Long Way Down` `The Fox and the Hound` `How I Met Your Mother: season 2 (again)` `english class` `react class`
+- [Day 28](log/2016-08-28.md) - Read: `electron` `webpack` `coding` `hosting` / Did: `Khumba` `react.js program class`
+- [Day 29](log/2016-08-29.md) - Read: `motivation` `work` `remote` / Did: `Jack Ryan: Shadow Recruit` `react.js program class`
+- [Day 30](log/2016-08-30.md) - Read: `test driven development` `graphql` `react` / Did: `Silver Linings Playbook` `react.js program class` `spanish class` `podcast: Hipsters #06`
+- [Day 31](log/2016-08-31.md) - Read: `react` `es6` `js injection` / Did: `A Long Way Down` `The Fox and the Hound` `How I Met Your Mother: season 2 (again)` `english class` `react.js program class`
  
 
 ### September
 
 - [Day 01](log/2016-09-01.md) - Read: `python` `django rest framework` / Did: `Semadec: react + redux`
-- [Day 02](log/2016-09-02.md) - Did: `Semadec: react + redux` `react class`
-- [Day 03](log/2016-09-03.md) - Read: `js` `js debugging` `self improvement` `mooc`  / Did: `react class` `open source: Projeto-SIAC/suap-wrapper`
+- [Day 02](log/2016-09-02.md) - Did: `Semadec: react + redux` `react.js program class`
+- [Day 03](log/2016-09-03.md) - Read: `js` `js debugging` `self improvement` `mooc`  / Did: `react.js program class` `open source: Projeto-SIAC/suap-wrapper`
 - [Day 04](log/2016-09-04.md) - Read: `js` `refactoring` `web components` `esp8266` `community` / Did: `open source: PosteroOrg/mural`
 - Day 05 - Did: `pet project: Catherine`
 - Day 06 - Did: `open source: ericdouglas/traduz-ai`
@@ -150,3 +150,8 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 27 - Did: `college`
 - Day 28 - Did: `college` `english class` `How I Met Your Mother: season 4 (again)`
 - [Day 29](log/2016-09-29.md) - Read:  `work` `life` `web development`
+- Day 30 - Did: `college`
+
+### October
+
+- [Day 01](log/2016-10-01.md) - Read: `react` / Did: `Luke Cage: season 1` `react.js program class`
