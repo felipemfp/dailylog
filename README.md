@@ -155,3 +155,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 ### October
 
 - [Day 01](log/2016-10-01.md) - Read: `react` / Did: `Luke Cage: season 1` `react.js program class`
+- [Day 02](log/2016-10-02.md) - Did: `Gotham: season 2` `react.js program class`
