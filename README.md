@@ -156,3 +156,5 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 
 - [Day 01](log/2016-10-01.md) - Read: `react` / Did: `Luke Cage: season 1` `react.js program class`
 - [Day 02](log/2016-10-02.md) - Did: `Gotham: season 2` `react.js program class`
+- [Day 03](log/2016-10-03.md) - Read: `docker` / Did: `Furious 7 (again)` `hacking class`
+- [Day 04](log/2016-10-04.md) - Read: `redis` `memcached` / Did: `college`
