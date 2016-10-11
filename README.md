@@ -159,4 +159,8 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 03](log/2016-10-03.md) - Read: `docker` / Did: `Furious 7 (again)` `hacking class`
 - [Day 04](log/2016-10-04.md) - Read: `redis` `memcached` / Did: `college`
 - Day 05 - Read: `Four Weddings and a Funeral` / Did: `college` `english class`
-- Day 06 - Did: `college`
+- Day 06 - Did: `college` `pet project: my-squad`
+- Day 07 - Did: `college`
+- Day 08 - Did: `busy busy busy`
+- Day 09 - Did: `resting`
+- Day 10 - Did: `english class`
