@@ -164,3 +164,6 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 08 - Did: `busy busy busy`
 - Day 09 - Did: `resting`
 - Day 10 - Did: `english class`
+- Day 11 - Did: `busy busy busy`
+- Day 12 - Did: `Barely Lethal` `holiday`
+- Day 13 - Did: `college`
