@@ -163,7 +163,11 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 07 - Did: `college`
 - Day 08 - Did: `busy busy busy`
 - Day 09 - Did: `resting`
-- Day 10 - Did: `english class`
+- Day 10 - Did: `english class` `Now You See Me (again)`
 - Day 11 - Did: `busy busy busy`
 - Day 12 - Did: `Barely Lethal` `holiday`
 - Day 13 - Did: `college`
+- Day 14 - Did: `college`
+- Day 15 - Did: `Miss Peregrine's Home for Peculiar Children`
+- [Day 16](log/2016-10-16.md) - Read: `productivity` `work` `life` / Did: `Fantastic Four (2005/again)`
+- [Day 17](log/2016-10-17.md) - Did: `How I Met Your Mother: season 5 (again)` `podcast: Hipsters #08` `college` `english class`
