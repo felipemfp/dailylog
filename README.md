@@ -174,3 +174,8 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 18 - Did: `college`
 - [Day 19](log/2016-10-19.md) - Read: `js` `p language` / Did: `podcast: NerdTech 08` `college` `english class`
 - Day 20 - Did: `busy busy busy`
+- [Day 21](log/2016-10-21.md) - Read: `react` `redux` `mvc + frontend` / Did: `The Dark Knight Rises` `3 Days to Kill` `college`
+- [Day 22](log/2016-10-22.md) - Read: `ddos` / Did: `The Flash: season 2`
+- [Day 23](log/2016-10-23.md) - Did: `react.js program class`
+- [Day 24](log/2016-10-24.md) - Did: `podcast: DNE 70` `college` `friend's birthday: party`
+- Day 25 - Did: `Supergirl: season 1` `friend's birthday: lunch`
