@@ -21,7 +21,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 
 - [Day 01](log/2016-06-01.md) - Did: `research: arduino and websocket` `open source: felipemfp/flask-socketio-sample` `english class` `college`
 - [Day 02](log/2016-06-02.md) - Read: `motivation` `career` / Did: `college`
-- [Day 03](log/2016-06-03.md) - Read: `motivation` `community` / Did: `start: React.js Fundamentals course` 
+- [Day 03](log/2016-06-03.md) - Read: `motivation` `community` / Did: `start: React.js Fundamentals course`
 - [Day 04](log/2016-06-04.md) - Read: `js` `c++` `passwordless` `work` `motivation` / Did: `research: servers for python` `open source: cristian-henrique/RGB-To-Hex`
 - [Day 05](log/2016-06-05.md) - Read: `js` `security` `motivation` / Did: `mva class` `open source: cristian-henrique/RGB-To-Hex` `pet project: Cathy`
 - [Day 06](log/2016-06-06.md) - Read: `js` `es6` `startup` / Did: `english class` `college`
@@ -35,7 +35,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 14](log/2016-06-14.md) - Read: `angularjs` / Did: `college`
 - [Day 15](log/2016-06-15.md) - Read: `work` `database` / Did: `college` `english class`
 - [Day 16](log/2016-06-16.md) - Read: `motivation` `side projects` / Did: `pet project: liturgia, linkbox`
-- [Day 17](log/2016-06-17.md) - Read: `js` `es6` / Did: `college` 
+- [Day 17](log/2016-06-17.md) - Read: `js` `es6` / Did: `college`
 - Day 18 - Did: `pet project: cathy, linkbox`
 - [Day 19](log/2016-06-19.md) - Read: `css` `js` `es6` `motivation` / Did: `X-Men: Apocalypse (again)` `tutorial: flask by example`
 - Day 20 - Did: `college`
@@ -56,7 +56,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 02](log/2016-07-02.md) - Read: `gosu` / Did: `pet project: racing`
 - [Day 03](log/2016-07-03.md) - Read: `programming` / Did: `react` `Friends: season 3` `podcast: foocast #7`
 - [Day 04](log/2016-07-04.md) - Read: `inspiration` / Did: `college` `pet project: racing`
-- [Day 05](log/2016-07-05.md) - Read: `python` / Did: `college` 
+- [Day 05](log/2016-07-05.md) - Read: `python` / Did: `college`
 - Day 06 - Did: `college` `open source: flask-restful/flask-restful`
 - [Day 07](log/2016-07-07.md) - Read: `programming` `webpack` / Did: `Finding Dory`
 - Day 08 - Did: `college` `open source: flask-restful/flask-restful`
@@ -117,7 +117,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 29](log/2016-08-29.md) - Read: `motivation` `work` `remote` / Did: `Jack Ryan: Shadow Recruit` `react.js program class`
 - [Day 30](log/2016-08-30.md) - Read: `test driven development` `graphql` `react` / Did: `Silver Linings Playbook` `react.js program class` `spanish class` `podcast: Hipsters #06`
 - [Day 31](log/2016-08-31.md) - Read: `react` `es6` `js injection` / Did: `A Long Way Down` `The Fox and the Hound` `How I Met Your Mother: season 2 (again)` `english class` `react.js program class`
- 
+
 
 ### September
 
@@ -179,3 +179,18 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 23](log/2016-10-23.md) - Did: `react.js program class`
 - [Day 24](log/2016-10-24.md) - Did: `podcast: DNE 70` `college` `friend's birthday: party`
 - Day 25 - Did: `Supergirl: season 1` `friend's birthday: lunch`
+- [Day 26](log/2016-10-26.md) - Read: `js` `js + class` `react` / Did: `college` `english class`
+- [Day 27](log/2016-10-27.md) - Read: `iot + security` / Did: `podcast: DNE 64`
+- [Day 28](log/2016-10-28.md) - Read: `webtask.io` `react + redux` / Did: `Lucy` `podcast: DNE 68`
+- [Day 29](log/2016-10-29.md) - Read: `framework full-stack` / Did: `	Marvel's Agents of S.H.I.E.L.D.: season 3`
+- [Day 30](log/2016-10-30.md) - Read: `django` `productivity` / Did: `American Sniper` `The Mask of Zorro` `react.js program class`
+- [Day 31](log/2016-10-31.md) - Read: `privacy` `open source community` / Did: `podcast: Hipsters #12, #14` `english class` `college`
+
+### November
+
+- [Day 01](log/2016-11-01.md) - Did: `podcast: DNE $`
+- Day 02 - Did: `busy busy busy`
+- [Day 03](log/2016-11-03.md) - Read: `js + dependencies` `react` `functional programming` / Did: `podcast: DNE 75`
+- Day 04 - Did: `busy busy busy`
+- Day 05 - Did: `The 5th Wave` `The Hangover`
+- [Day 06](log/2016-11-06.md) - Did: `The Man from U.N.C.L.E. (again)` `Ladder 49` `The Death of Superman` `podcast: Hipsters #16`
