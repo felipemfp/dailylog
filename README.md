@@ -194,3 +194,14 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 04 - Did: `busy busy busy`
 - Day 05 - Did: `The 5th Wave` `The Hangover`
 - [Day 06](log/2016-11-06.md) - Did: `The Man from U.N.C.L.E. (again)` `Ladder 49` `The Death of Superman` `podcast: Hipsters #16`
+- [Day 07](log/2016-11-07.md) - Read: `functional programming` / Did: `podcast: Hipsters #15` `college`
+- [Day 08](log/2016-11-08.md) - Read: `life` / Did: `Inferno` `expotec 2016` `college`
+- [Day 09](log/2016-11-09.md) - Did: `podcast: NerdcastEmpreendedor 22` `expotec 2016` `english class` `college`
+- [Day 10](log/2016-11-10.md) - Did: `How I Met Your Mother: season 6 (again)` `podcast: Hipsters #17` `react.js program class`
+- [Day 11](log/2016-11-11.md) - Read: `iot` `security` `entrepreneurship`
+- Day 12 - Did: `trip: Campo Redondo`
+- Day 13 - Did: `trip: Boa Saúde`
+- [Day 14](log/2016-11-14.md) - Did: `podcast: NerdTech 5` `supermoon`
+- Day 15 - Did: `holiday`
+- [Day 16](log/2016-11-16.md) - Read: `python + twitter` / Did: `english class` `college`
+- [Day 17](log/2016-11-17.md) - Read: `lesspass` `work` / Did: `open source: felipemfp/github-battle`
