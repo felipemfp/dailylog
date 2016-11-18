@@ -197,7 +197,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 07](log/2016-11-07.md) - Read: `functional programming` / Did: `podcast: Hipsters #15` `college`
 - [Day 08](log/2016-11-08.md) - Read: `life` / Did: `Inferno` `expotec 2016` `college`
 - [Day 09](log/2016-11-09.md) - Did: `podcast: NerdcastEmpreendedor 22` `expotec 2016` `english class` `college`
-- [Day 10](log/2016-11-10.md) - Did: `How I Met Your Mother: season 6 (again)` `podcast: Hipsters #17` `react.js program class`
+- [Day 10](log/2016-11-10.md) - Did: `How I Met Your Mother: season 6 (again)` `podcast: Hipsters #17` `react.js program class` `expotec 2016`
 - [Day 11](log/2016-11-11.md) - Read: `iot` `security` `entrepreneurship`
 - Day 12 - Did: `trip: Campo Redondo`
 - Day 13 - Did: `trip: Boa Saúde`
