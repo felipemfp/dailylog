@@ -36,7 +36,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 15](log/2016-06-15.md) - Read: `work` `database` / Did: `college` `english class`
 - [Day 16](log/2016-06-16.md) - Read: `motivation` `side projects` / Did: `pet project: liturgia, linkbox`
 - [Day 17](log/2016-06-17.md) - Read: `js` `es6` / Did: `college`
-- Day 18 - Did: `pet project: cathy, linkbox`
+- Day 18 - Did: `pet project: Cathy, linkbox`
 - [Day 19](log/2016-06-19.md) - Read: `css` `js` `es6` `motivation` / Did: `X-Men: Apocalypse (again)` `tutorial: flask by example`
 - Day 20 - Did: `college`
 - Day 21 - Did: `college`
@@ -68,7 +68,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 14 - Did: `college` `open source: frontendbr/doe-um-livro`
 - [Day 15](log/2016-07-15.md) - Read: `js` `motivation` `life` / Did: `college`
 - Day 16 - Did: `X-Men: Apocalypse`
-- [Day 17](log/2016-07-17.md) - Read: `arduino` / Did: `pet project: cathy` `Friends: season 4`
+- [Day 17](log/2016-07-17.md) - Read: `arduino` / Did: `pet project: Cathy` `Friends: season 4`
 - Day 18 - Did: `college`
 - [Day 19](log/2016-07-19.md) - Read: `js` `es6` `nanotecnology` / Did: `college` `futsal`
 - [Day 20](log/2016-07-20.md) - Read: `js` `typescript`
@@ -90,7 +90,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 02 - Did: `Friends: season 8`
 - [Day 03](log/2016-08-03.md) - Did: `podcast: Hipsters #02`  `tutorial: flask by example`
 - [Day 04](log/2016-08-04.md) - Read: `motivation` `work` / Did: `futsal`
-- Day 05 - Did: `college` `pet project: cathy`
+- Day 05 - Did: `college` `pet project: Cathy`
 - Day 06 - Did: `open source: camilatigre/listamaravilhosaopensource`
 - Day 07 - Did: `Friends: season 9` `pet project: racing`
 - Day 08 - Did: `college` `pet project: racing`
@@ -205,3 +205,8 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 15 - Did: `holiday`
 - [Day 16](log/2016-11-16.md) - Read: `python + twitter` / Did: `english class` `college`
 - [Day 17](log/2016-11-17.md) - Read: `lesspass` `work` / Did: `open source: felipemfp/github-battle`
+- [Day 18](log/2016-11-18.md) - Did: `Fantastic Beasts and Where to Find Them` `podcast: NerdTech 09` `college`
+- [Day 19](log/2016-11-19.md) - Read: `entrepreneurship` `life` / Did: `White Chicks (again)` `The Heat` `podcast: Hipsters #18` `open source: Projeto-SIAC/api`
+- [Day 20](log/2016-11-20.md) - Read: `full-stack` `productivity` / Did: `pet project: Catherine`
+- [Day 21](log/2016-11-21.md) - Read: `iot` / Did: `Doctor Strange` `Zootopia` `American Wedding` `pet project: Catherine`
+- [Day 22](log/2016-11-22.md) - Read: `open source + community` / Did: `podcast: AntiCast 253` `college`
