@@ -201,7 +201,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 11](log/2016-11-11.md) - Read: `iot` `security` `entrepreneurship`
 - Day 12 - Did: `trip: Campo Redondo`
 - Day 13 - Did: `trip: Boa Saúde`
-- [Day 14](log/2016-11-14.md) - Did: `podcast: NerdTech 5` `supermoon`
+- [Day 14](log/2016-11-14.md) - Did: `podcast: NerdTech 5` `open source: Integrada/DS1307` `supermoon`
 - Day 15 - Did: `holiday`
 - [Day 16](log/2016-11-16.md) - Read: `python + twitter` / Did: `english class` `college`
 - [Day 17](log/2016-11-17.md) - Read: `lesspass` `work` / Did: `open source: felipemfp/github-battle`
@@ -210,3 +210,11 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 20](log/2016-11-20.md) - Read: `full-stack` `productivity` / Did: `pet project: Catherine`
 - [Day 21](log/2016-11-21.md) - Read: `iot` / Did: `Doctor Strange` `Zootopia` `American Wedding` `pet project: Catherine`
 - [Day 22](log/2016-11-22.md) - Read: `open source + community` / Did: `podcast: AntiCast 253` `college`
+- Day 23 - Did: `How I Met Your Mother: season 7 (again)`
+- [Day 24](log/2016-11-24.md) - Read: `productivity` `life` / Did: `Knock Knock`
+- [Day 25](log/2016-11-25.md) - Read: `motivation` `iot` / Did: `college`
+- Day 26 - Did: `pet project: Catherine` `open source: Projeto-SIAC/api`
+- [Day 27](log/2016-11-27.md) - Read: `productivity` `life` `motivation` / Did: `pet project: Catherine`
+- Day 28 - Did: `college`
+- [Day 29](log/2016-11-29.md) - Did: `podcast: Hipsters #04` `college`
+- Day 30 - Did: `english class` `college`
