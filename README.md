@@ -17,7 +17,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 30](log/2016-05-30.md) - Read: `motivation` `css` `performance` / Did: `research: big data technologies` `pet project: MySquad` `english class` `college`
 - [Day 31](log/2016-05-31.md) - Read: `entity framework` / Did: `research: arduino and esp8266` `pizza ♥` `college`
 
-### June
+### Jun
 
 - [Day 01](log/2016-06-01.md) - Did: `research: arduino and websocket` `open source: felipemfp/flask-socketio-sample` `english class` `college`
 - [Day 02](log/2016-06-02.md) - Read: `motivation` `career` / Did: `college`
@@ -50,7 +50,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 29](log/2016-06-29.md) - Read: `js` `es6` / Did: `college`
 - Day 30 - Did: `college` `Teenage Mutant Ninja Turtles: Out of the Shadows`
 
-### July
+### Jul
 
 - Day 01 - Did: `college` `Better Call Saul: season 2`
 - [Day 02](log/2016-07-02.md) - Read: `gosu` / Did: `pet project: racing`
@@ -84,7 +84,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 30 - Did: `Agent Carter: season 2` `open source: felipemfp/obi`
 - Day 31 - Did: `Stranger Things: season 1` `open source: felipemfp/obi`
 
-### August
+### Aug
 
 - Day 01 - Did: `Friends: season 7` `open source: felipemfp/obi`
 - Day 02 - Did: `Friends: season 8`
@@ -119,7 +119,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 31](log/2016-08-31.md) - Read: `react` `es6` `js injection` / Did: `A Long Way Down` `The Fox and the Hound` `How I Met Your Mother: season 2 (again)` `english class` `react.js program class`
 
 
-### September
+### Sep
 
 - [Day 01](log/2016-09-01.md) - Read: `python` `django rest framework` / Did: `Semadec: react + redux`
 - [Day 02](log/2016-09-02.md) - Did: `Semadec: react + redux` `react.js program class`
@@ -152,7 +152,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 29](log/2016-09-29.md) - Read:  `work` `life` `web development`
 - Day 30 - Did: `college`
 
-### October
+### Oct
 
 - [Day 01](log/2016-10-01.md) - Read: `react` / Did: `Luke Cage: season 1` `react.js program class`
 - [Day 02](log/2016-10-02.md) - Did: `Gotham: season 2` `react.js program class`
@@ -186,7 +186,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 30](log/2016-10-30.md) - Read: `django` `productivity` / Did: `American Sniper` `The Mask of Zorro` `react.js program class`
 - [Day 31](log/2016-10-31.md) - Read: `privacy` `open source community` / Did: `podcast: Hipsters #12, #14` `english class` `college`
 
-### November
+### Nov
 
 - [Day 01](log/2016-11-01.md) - Did: `podcast: DNE $`
 - Day 02 - Did: `busy busy busy`
@@ -218,3 +218,13 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 28 - Did: `college`
 - [Day 29](log/2016-11-29.md) - Did: `podcast: Hipsters #04` `college`
 - Day 30 - Did: `english class` `college`
+
+### Dec
+
+- [Day 01](log/2016-12-01.md) - Did: `podcast: Hipsters #13`
+- Day 02 - Did: `How I Met Your Mother: season 8 (again)` `college`
+- Day 03 - Did: `pet project: Catherine` `open source: Projeto-SIAC/api, alephmelo/watchman`
+- Day 04 - Did: `How I Met Your Mother: season 9 (again)`
+- [Day 05](log/2016-12-05.md) - Did: `The Intern` `podcast: Hipsters #19, #20` `college` `english class`
+- [Day 06](log/2016-12-06.md) - Read: `ruby` `motivation` / Did: `college`
+- [Day 07](log/2016-12-07.md) - Read: `react` `motivation` / Did: `podcast: DNE 82` `college` `english class`
