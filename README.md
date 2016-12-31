@@ -161,10 +161,10 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 05 - Read: `Four Weddings and a Funeral` / Did: `college` `english class`
 - Day 06 - Did: `college` `pet project: my-squad`
 - Day 07 - Did: `college`
-- Day 08 - Did: `busy busy busy`
+- Day 08 - Read: `buzy: no articles today`
 - Day 09 - Did: `resting`
 - Day 10 - Did: `english class` `Now You See Me (again)`
-- Day 11 - Did: `busy busy busy`
+- Day 11 - Read: `buzy: no articles today`
 - Day 12 - Did: `Barely Lethal` `holiday`
 - Day 13 - Did: `college`
 - Day 14 - Did: `college`
@@ -173,7 +173,7 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - [Day 17](log/2016-10-17.md) - Did: `How I Met Your Mother: season 5 (again)` `podcast: Hipsters #08` `college` `english class`
 - Day 18 - Did: `college`
 - [Day 19](log/2016-10-19.md) - Read: `js` `p language` / Did: `podcast: NerdTech 08` `college` `english class`
-- Day 20 - Did: `busy busy busy`
+- Day 20 - Read: `buzy: no articles today`
 - [Day 21](log/2016-10-21.md) - Read: `react` `redux` `mvc + frontend` / Did: `The Dark Knight Rises` `3 Days to Kill` `college`
 - [Day 22](log/2016-10-22.md) - Read: `ddos` / Did: `The Flash: season 2`
 - [Day 23](log/2016-10-23.md) - Did: `react.js program class`
@@ -189,9 +189,9 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 ### Nov
 
 - [Day 01](log/2016-11-01.md) - Did: `podcast: DNE $`
-- Day 02 - Did: `busy busy busy`
+- Day 02 - Read: `buzy: no articles today`
 - [Day 03](log/2016-11-03.md) - Read: `js + dependencies` `react` `functional programming` / Did: `podcast: DNE 75`
-- Day 04 - Did: `busy busy busy`
+- Day 04 - Read: `buzy: no articles today`
 - Day 05 - Did: `The 5th Wave` `The Hangover`
 - [Day 06](log/2016-11-06.md) - Did: `The Man from U.N.C.L.E. (again)` `Ladder 49` `The Death of Superman` `podcast: Hipsters #16`
 - [Day 07](log/2016-11-07.md) - Read: `functional programming` / Did: `podcast: Hipsters #15` `college`
@@ -227,4 +227,27 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 04 - Did: `How I Met Your Mother: season 9 (again)`
 - [Day 05](log/2016-12-05.md) - Did: `The Intern` `podcast: Hipsters #19, #20` `college` `english class`
 - [Day 06](log/2016-12-06.md) - Read: `ruby` `motivation` / Did: `college`
-- [Day 07](log/2016-12-07.md) - Read: `react` `motivation` / Did: `podcast: DNE 82` `college` `english class`
+- [Day 07](log/2016-12-07.md) - Read: `react` `motivation` / Did: `podcast: DNE 82A` `college` `english class`
+- Day 08 - Read: `buzy: no articles today`
+- [Day 09](log/2016-12-09.md) - Read: `buzy: no articles today` / Did: `podcast: NerdTech 10`
+- Day 10 - Did: `moving home`
+- Day 11 - Did: `moving home` `Nick and Norah's Infinite Playlist` `Star Wars: Episode V` `Star Wars: Episode VI`
+- [Day 12](log/2016-12-12.md) - Read: `no internet: no articles today` / Did: `podcast: Hipsters #21` `college` `english class`
+- Day 13 - Read: `no internet: no articles today` / Did: `Star Wars: Episode I` `college`
+- Day 14 - Read: `no internet: no articles today` / Did: `Star Wars: Episode II` `college` `english class`
+- Day 15 - Read: `no internet: no articles today` / Did: `Star Wars: Episode III`
+- [Day 16](log/2016-12-16.md) - Read: `no internet: no articles today` / Did: `poscast: NerdTech 07` `college`
+- Day 17 - Read: `no internet: no articles today` / Did: `Star Wars: Episode IV`
+- Day 18 - Read: `no internet: no articles today`
+- Day 19 - Did: `Rogue One` `english class`
+- Day 20 - Did: `college`
+- Day 21 - Did: `college` `Le Cirque Amar`
+- Day 22 - Read: `buzy: no articles today`
+- Day 23 - Did: `college`
+- Day 24 - Did: `Christmas Eve`
+- Day 25 - Did: `Christmas Day`
+- Day 26 - Read: `buzy: no articles today`
+- Day 27 - Did: `Friends: season 1 (again)` `good time with friends`
+- Day 28 - Did: `Sing`
+- Day 29 - Read: `buzy: no articles today`
+- Day 30 - Read: `buzy: no articles today`
