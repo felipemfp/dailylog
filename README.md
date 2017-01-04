@@ -8,3 +8,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 ### Jan
 
 - Day 01 - Did: `New Year's Day`
+- [Day 02](log/2017-01-02.md) - Did: `mva class` `open source: github/gitignore`
