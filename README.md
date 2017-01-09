@@ -14,4 +14,4 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 05 - Did: `Jerry Maguire` `Friends: season 2 (again)`
 - Day 06 - Did: `open source: WoLpH/python-progressbar`
 - Day 07 - Did: `Black Swan`
-- Day 08 - Did: `open source: ijrodrigues/curriculo, jh00nbr/situacao_servico_militar`
+- Day 08 - Did: `open source: ijrodrigues/curriculo, jh00nbr/situacao_servico_militar, nash0x27/pydir`
