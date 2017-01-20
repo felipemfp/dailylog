@@ -3,6 +3,8 @@
 
 Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 
+## [2016](2016)
+
 ## 2017
 
 ### Jan
@@ -16,3 +18,13 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 07 - Did: `Black Swan`
 - Day 08 - Did: `open source: ijrodrigues/curriculo, jh00nbr/situacao_servico_militar, nash0x27/pydir`
 - [Day 09](log/2017-01-09.md) - Read: `react`
+- Day 10 - Did: `Friends: season 3 (again)`
+- Day 11 - Read: `buzy: no articles today`
+- Day 12 - Read: `buzy: no articles today`
+- Day 13 - Read: `buzy: no articles today`
+- Day 14 - Read: `buzy: no articles today`
+- Day 15 - Did: `Friends: season 4 (again)`
+- Day 16 - Did: `The Lucky One` `pizzaria`
+- Day 17 - Read: `buzy: no articles today`
+- Day 18 - Did: `Shooter: season 1`
+- Day 19 - Did: `National Treasure`
