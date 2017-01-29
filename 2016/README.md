@@ -251,3 +251,5 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 29 - Read: `buzy: no articles today`
 - Day 30 - Read: `buzy: no articles today`
 - Day 31 - Did: `New Year's Eve`
+
+[__Back__](../README.md)
