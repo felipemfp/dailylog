@@ -28,3 +28,12 @@ Inspired by [Felipe Fialho - Daily Log](//github.com/LFeh/dailylog)
 - Day 17 - Read: `buzy: no articles today`
 - Day 18 - Did: `Shooter: season 1`
 - Day 19 - Did: `National Treasure`
+- [Day 20](log/2017-01-20.md) - Read: `productivity` / Did: `Friends: season 5 (again)`
+- [Day 21](log/2017-01-21.md) - Read: `git` `github` `productivity`  / Did: `Harlan Coben: The Final Detail`
+- [Day 22](log/2017-01-22.md) - Read: `react + redux` `functional programming` `work + interview` / Did: `mva class`
+- [Day 23](log/2017-01-23.md) - Read: `react` `elm` `security` `work + interview` / Did: `Friends: season 6 (again)`
+- [Day 24](log/2017-01-24.md) - Read: `react + styled components` `redux` `electron + create-react-app` `motivation` / Did: `college`
+- [Day 25](log/2017-01-25.md) - Read: `software development` `javascript` `work + interview` / Did: `pet project: passando-na-tv` `college`
+- [Day 26](log/2017-01-26.md) - Did: `pet project: passando-na-tv` `mva class` `college`
+- Day 27 - Did: `college`
+- Day 28 - Did: `pet project: passando-na-tv` `open source: Projeto-SIAC/suap-wrapper`
