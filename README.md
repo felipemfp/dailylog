@@ -40,7 +40,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 30 - Did: `college`
 - [Day 31](log/2017-01-31.md) - Read: `graphql` `security` Did: `Friends: season 7 (again)` `college`
 
-### Fev
+### Feb
 
 - [Day 01](log/2017-02-01.md) - Read: `pipenv` `remote work` `google's android things` / Did: `college` `podcast: Hipsters #29`
 - [Day 02](log/2017-02-02.md) - Read: `python + japronto` `react-native` `flexbox` / Did: `Orphan Black: season 3`
