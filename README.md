@@ -120,3 +120,4 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 11 - Did: `Fragmentado` `research project: GeoGuide` `college project: Luna` `college`
 - Day 12 - Did: `research project: PNTD` `college`
 - Day 13 - Did: `How I Met Your Mother: season 5 (again)`
+- Day 14 - Did: `pet project: dailylog, django-polls-app`
