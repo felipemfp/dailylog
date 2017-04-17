@@ -121,3 +121,5 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 12 - Did: `research project: PNTD` `college`
 - Day 13 - Did: `How I Met Your Mother: season 5 (again)`
 - Day 14 - Did: `pet project: dailylog, django-polls-app`
+- Day 15 - Did: `nothing to log today`
+- Day 16 - Did: `college project: Luna`
