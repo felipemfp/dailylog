@@ -123,3 +123,4 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 14 - Did: `pet project: dailylog, django-polls-app`
 - Day 15 - Did: `nothing to log today`
 - Day 16 - Did: `college project: Luna`
+- Day 17 - Did: `college project: Luna, SIAC` `research project: PNTD` `college`
