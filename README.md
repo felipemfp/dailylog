@@ -124,3 +124,4 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 15 - Did: `nothing to log today`
 - Day 16 - Did: `college project: Luna`
 - Day 17 - Did: `college project: Luna, SIAC` `research project: PNTD` `college`
+- Day 18 - Did: `research project: PRNTD` `college project: IFRN Messenger`
