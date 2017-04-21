@@ -125,4 +125,5 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 16 - Did: `college project: Luna`
 - Day 17 - Did: `college project: Luna, SIAC` `research project: PNTD` `college`
 - Day 18 - Did: `research project: PRNTD` `college project: IFRN Messenger`
-- Day 19 - Did: `research project: GeoGuide` `Master Pitch` `GDG Natal Meeting #8`
+- Day 19 - Did: `research project: GeoGuide` `Master Pitch` `GDG Natal Meeting #8` `college`
+- Day 20 - Did: `research project: GeoGuide` `Master Pitch` `college`
