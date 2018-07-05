@@ -131,3 +131,5 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 22 - Did: `Creed` `research project: PRNTD` `english class`
 
 ---
+
+<p align="center">[the end]</p>
