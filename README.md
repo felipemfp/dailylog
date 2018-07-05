@@ -129,3 +129,5 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 20 - Did: `research project: GeoGuide` `Master Pitch` `college`
 - Day 21 - Did: `research project: GeoGuide`
 - Day 22 - Did: `Creed` `research project: PRNTD` `english class`
+
+---
